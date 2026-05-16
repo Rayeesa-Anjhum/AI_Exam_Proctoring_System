@@ -281,4 +281,4 @@ This project is built for **educational/academic purposes** as a Final Year Proj
 
 ---
 
-*© 2025 AIOEPS — AI Based Online Examination Proctoring System*
+*© 2026 AIOEPS — AI Based Online Examination Proctoring System*
